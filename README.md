@@ -35,24 +35,7 @@ I focus on crafting immersive web experiences that blend creativity with functio
       <strong>React.js</strong>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/><br>
-      <strong>Bootstrap</strong>
-    </td>
-    <td align="center">
-      <img src="https://seeklogo.com/images/M/material-ui-logo-6C1265C6D2-seeklogo.com.png" alt="Material UI" width="50" height="50"/><br>
-      <strong>Material UI</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white" alt="SCSS" width="50" height="50"/><br>
-      <strong>SCSS</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Hooks" width="50" height="50"/><br>
-      <strong>React Hooks</strong>
-    </td>
-  </tr>
+   
 </table>
 
 ---
