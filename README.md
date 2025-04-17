@@ -1,7 +1,6 @@
 <!-- README.md -->
 
-<!-- Banner/Header Image -->
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+Profile)
+ 
 
 # Hi there! 👋 I'm **Tapswi**
 
