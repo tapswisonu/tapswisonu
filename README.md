@@ -38,24 +38,7 @@ I focus on crafting immersive web experiences that blend creativity with functio
    
 </table>
 
----
-
-## 🚀 Projects
-
-Working on it
-
----
-
-## 🎨 My Design Process
-
-Great design starts with understanding the user. I begin with wireframes and prototypes, iterate on designs, and finalize with a polished, responsive UI.
-
-![Design Process](https://via.placeholder.com/800x200?text=Design+Process+Image)
-
----
-
-## 📫 Connect With Me
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
 
-Let's collaborate and build something amazing! 🚀
+ 
