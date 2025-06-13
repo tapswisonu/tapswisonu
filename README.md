@@ -6,13 +6,11 @@
 
 I'm a passionate **Front-end Developer** specializing in building modern, responsive web applications. I love creating clean, intuitive, and user-friendly interfaces using the latest web technologies.
 
----
 
 ## 💻 About Me
 
 I focus on crafting immersive web experiences that blend creativity with functionality. My designs are built with a strong foundation in HTML, CSS, and JavaScript, and enhanced with frameworks like React.js, Bootstrap, and Material UI.
 
----
 
 ## 🛠 Technologies & Skills
 
