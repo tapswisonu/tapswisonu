@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm **Tapswi**
 
-I'm a passionate **Web Designer** specializing in building modern, responsive web applications. I love creating clean, intuitive, and user-friendly interfaces using the latest web technologies.
+I'm a passionate **Front-end Developer** specializing in building modern, responsive web applications. I love creating clean, intuitive, and user-friendly interfaces using the latest web technologies.
 
 ---
 
